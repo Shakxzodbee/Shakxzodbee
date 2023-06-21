@@ -13,3 +13,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,Tailwindcss,Sass,JavaScript,React.js)](https://skillicons.dev)
 </br>
 <img src="http://i.countdownmail.com/2mor60.gif" border="0" alt="countdownmail.com"/>
+
+
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma)](https://skillicons.dev)<br/>
+[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
