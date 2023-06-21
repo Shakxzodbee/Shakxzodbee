@@ -38,14 +38,14 @@
   💬 Ask me anything about from <a href="https://github.com/mabrur-h/Shakxzodbee/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
+
+  <br>
+  Skills
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma,react)](https://skillicons.dev)<br/>
 </p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <img src="http://i.countdownmail.com/2mor60.gif" border="0" alt="countdownmail.com"/>
-
-
-
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma,react)](https://skillicons.dev)<br/>
 
 <hr>
 <p align=center>
