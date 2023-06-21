@@ -1,4 +1,3 @@
-<h3 align="left">Connect with me:</h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
 
 <h1 align="center">
