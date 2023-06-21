@@ -28,3 +28,6 @@ CSS                      7 repos             ██░░░░░░░░░�
 Html                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 React                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
