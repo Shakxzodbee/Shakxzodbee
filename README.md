@@ -9,9 +9,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,Tailwindcss,Sass,JavaScript,React.js)](https://skillicons.dev)
-</br>
 <img src="http://i.countdownmail.com/2mor60.gif" border="0" alt="countdownmail.com"/>
 
 
