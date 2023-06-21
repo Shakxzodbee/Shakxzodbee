@@ -40,7 +40,6 @@
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
 
   <br>
-  Skills
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma,react)](https://skillicons.dev)<br/>
 </p>
 
