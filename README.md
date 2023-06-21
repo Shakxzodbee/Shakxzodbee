@@ -31,7 +31,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/Shakxzodbek">t.me/mabrur_dev</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/Shakxzodbek">t.me/........</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/mabrur-h/Shakxzodbee/issues" title="Issues">Here</a>
   <br>
