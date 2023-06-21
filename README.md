@@ -2,10 +2,6 @@
 <h3 align="center">I am a web frontend developer Junior</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shakhzodbeeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakhzodbeeeek" height="30" width="40" /></a>
-  <a href="https://telegram.com/shakhzodbeeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="shakhzodbeeeek" height="30" width="40" /></a>
-</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
 
 <h1 align="center">
