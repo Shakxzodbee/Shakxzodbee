@@ -26,10 +26,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left">
-  Hi, I'm Mabrur, Software Engineer from Uzbekistan
+  Hi, I'm Shahzodbek WEb Developer from Uzbekistan
   <br>
-  <br>
-  🔬 I'm currently studying at IU Berlin and working at FireArt
   <br>
   💻 I love writing code and learn anythings about it
   <br>
