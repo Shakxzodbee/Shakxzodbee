@@ -13,6 +13,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </br>
 <img src="http://i.countdownmail.com/2mor60.gif" border="0" alt="countdownmail.com"/>
-
-<br/>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="71" height="71" /></div>
