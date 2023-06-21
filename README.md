@@ -13,9 +13,10 @@
   </a>
   <br>
 </br>
-</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3516F7&background=6DFF5700&width=435&lines=WEb+Frontend+Developer++++++Junior+%F0%9F%92%BB" alt="Typing SVG" /></a>
-</h1>
+  <h1 align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3516F7&background=6DFF5700&width=435&lines=WEb+Frontend+Developer++++++Junior+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+  </h1>
 
 <h5 align="center">
  <a href="https://www.instagram.com/Shakxzodbee/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
