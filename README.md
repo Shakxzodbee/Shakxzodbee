@@ -18,7 +18,7 @@
  <a href="https://t.me/Shakxzodbee/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm Mabrur, Software Engineer from Uzbekistan
   <br>
   <br>
