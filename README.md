@@ -18,6 +18,8 @@
  <a href="https://t.me/Shakxzodbee/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
 <br>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p align="left">
   Hi, I'm Mabrur, Software Engineer from Uzbekistan
   <br>
@@ -32,7 +34,6 @@
   <br>
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <img src="http://i.countdownmail.com/2mor60.gif" border="0" alt="countdownmail.com"/>
