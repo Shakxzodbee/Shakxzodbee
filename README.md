@@ -16,5 +16,4 @@
 
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma)](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,figma,react)](https://skillicons.dev)<br/>
