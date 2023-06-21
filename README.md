@@ -14,14 +14,4 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-
-```text
-JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-Bootstrap                8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Html                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-React                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-
-
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
