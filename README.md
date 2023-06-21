@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shakhzodbeeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakhzodbeeeek" height="30" width="40" /></a>
+  <a href="https://t.me./shakhzodbeeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="shakhzodbeeeek" height="30" width="40" /></a>
 </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
 
@@ -18,10 +19,6 @@
 
   </h1>
 
-<h5 align="center">
- <a href="https://www.instagram.com/Shakxzodbee/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- <a href="https://t.me/Shakxzodbee/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</h5>
 <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
