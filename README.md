@@ -22,9 +22,6 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 
-
-
-
 ```text
 JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
 Bootstrap                8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
@@ -32,15 +29,3 @@ CSS                      7 repos             ██░░░░░░░░░�
 Html                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 React                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
-
-
-
-
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
