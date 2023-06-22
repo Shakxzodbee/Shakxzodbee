@@ -47,7 +47,7 @@
 <a href="https://github.com/Shakxzodbee/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHakxzodbee&layout=compact&langs_count=8&card_width=320" />
 </a>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shakxzodbee\&repo=github-readme-stats\&show_owner=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakxzodbee)
   <br>
 </p>
 
