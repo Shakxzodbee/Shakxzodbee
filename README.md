@@ -44,9 +44,6 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 
-  <a href="https://github.com/Shakxzodbee/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shakxzodbee" />
-</a>
 <a href="https://github.com/Shakxzodbee/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHakxzodbee&layout=compact&langs_count=8&card_width=320" />
 </a>
