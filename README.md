@@ -30,7 +30,7 @@
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,figma,react,sass)](https://skillicons.dev)<br/>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<img src="http://i.countdownmail.com/2mor60.gif" border="0" alt="countdownmail.com"/>
+
 
 <hr>
 <p align=center>
