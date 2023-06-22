@@ -12,8 +12,7 @@
   </h1>
 
 <br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   Hi, I'm Shahzodbek WEb Developer from Uzbekistan
   <br>
   <br>
