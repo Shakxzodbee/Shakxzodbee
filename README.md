@@ -56,3 +56,4 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
+![Example](./docs/examples/awesome_window_frame.svg)
