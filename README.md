@@ -56,6 +56,3 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
-
-
-node updater.js ${{ github.repository_owner }} <Shakxzodbee>
