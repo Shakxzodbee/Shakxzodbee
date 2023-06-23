@@ -53,6 +53,6 @@
 </p>
 
 <hr>
-<h4 align="center">
+<h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
-</h4>
+</h5>
