@@ -23,13 +23,10 @@
   💬 Ask me anything about from <a href="https://github.com/mabrur-h/Shakxzodbee/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
-
+<br/>
+<br/>
   <br>
 </p>
-
-
-<br/>
-<br/>
 <br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,tailwind,figma,react,git,github,ps,vercel,vscode,)](https://skillicons.dev)<br/>
