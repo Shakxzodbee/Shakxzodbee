@@ -27,6 +27,10 @@
   <br>
 </p>
 
+
+<br/>
+
+
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,tailwind,figma,react,git,github,ps,vercel,vscode,)](https://skillicons.dev)<br/>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
