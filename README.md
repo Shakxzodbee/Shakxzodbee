@@ -31,7 +31,7 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,tailwind,figma,react,git,github,ps,vercel,vscode,)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,scss,js,nodejs,tailwind,figma,react,git,github,ps,vercel,vscode,)](https://skillicons.dev)<br/>
 <hr>
 <p align=center>
   <div align=center>
