@@ -56,6 +56,6 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
-<div>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakxzodbee)
-</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
