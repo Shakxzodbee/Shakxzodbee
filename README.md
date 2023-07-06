@@ -55,7 +55,3 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
-
-  <a href="https://github.com/Shakxzodbee/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHakxzodbee&layout=compact&langs_count=8&card_width=320" />
-</a>
