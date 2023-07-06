@@ -56,7 +56,4 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shakxzodbee)](https://github.com/Shakxzodbee/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakxzodbee&hide_progress=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakxzodbee)
