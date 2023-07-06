@@ -58,4 +58,4 @@
 </h5>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakxzodbee&layout=donut-vertical)](https://github.com/Shakxzodbee/github-readme-stats)
