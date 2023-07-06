@@ -44,9 +44,8 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 <div align="center">
-  <a href="https://github.com/Shakxzodbee/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHakxzodbee&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakxzodbee&layout=donut-vertical)](https://github.com/Shakxzodbee/github-readme-stats)
 </div>
 
   <br>
@@ -57,5 +56,6 @@
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakxzodbee&layout=donut-vertical)](https://github.com/Shakxzodbee/github-readme-stats)
+  <a href="https://github.com/Shakxzodbee/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHakxzodbee&layout=compact&langs_count=8&card_width=320" />
+</a>
