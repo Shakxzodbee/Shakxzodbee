@@ -44,10 +44,14 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 <div align="left">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakxzodbee&langs_count=8)
+
 </div>
 <div align="right">
+  
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/shakxzodbee/github-readme-stats)
+
 </div>
 
   <br>
