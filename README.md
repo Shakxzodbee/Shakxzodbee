@@ -48,12 +48,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakxzodbee&langs_count=8)
 
 </div>
-<div align="right">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-</div>
-
   <br>
 </p>
 
