@@ -45,7 +45,7 @@
   <br><br><br><br><br><br><br><br><br>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakxzodbee&layout=pie)](https://github.com/shakxzodbee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakxzodbee&layout=donut-vertical)](https://github.com/shakxzodbee/github-readme-stats)
 </div>
 
   <br>
