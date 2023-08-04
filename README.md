@@ -1,5 +1,3 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahzodbek👨‍💻&center=true&size=30">
@@ -52,6 +50,10 @@
 </p>
 
 <hr>
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
+
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
