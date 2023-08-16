@@ -27,7 +27,7 @@
 </p>
 <br/>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,jquery,git,github,ps,vercel,vscode,express,vite)](https://skillicons.dev)<br/>
 <hr>
@@ -56,3 +56,6 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
