@@ -27,6 +27,8 @@
 </p>
 <br/>
 
+<br/>
+
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,jquery,git,github,ps,vercel,vscode,express,vite)](https://skillicons.dev)<br/>
