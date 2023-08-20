@@ -21,6 +21,19 @@
   💬 Ask me anything about from <a href="https://github.com/mabrur-h/Shakxzodbee/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
+
+  💬 Ask me about **Full Stack**
+
+  - 🌱 I’m currently learning **React js , Vue.js , Node.js**
+
+- ⚡ Fun fact **i'am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shakxzodbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakxzodbee" height="30" width="40" /></a>
+<a href="https://telegram.com/Shakxzodbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Shahzodbek" height="30" width="40" /></a>
+</p>
+
 <br/>
 <br/>
   <br>
