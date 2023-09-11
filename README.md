@@ -1,13 +1,13 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahzodbek👨‍💻&center=true&size=30">
-  </a>
-  <br>
-</br>
-  <h1 align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffd700&background=6DFF5700&width=435&lines=Web+Full+Stack+Developer+++++++%F0%9F%92%BB" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Shahzodbek%20Barliboyev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-  </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;)](#)
+ 
+
+<!-- START STATS -->
+<div align="center"> 
+   <img width="49%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shakxzodbee&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="UzSoftic github stats" /> 
+   <img width="41%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shakxzodbee&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
