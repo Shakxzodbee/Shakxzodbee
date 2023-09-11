@@ -63,6 +63,11 @@
 </h5>
 
 
+## 📊 GitHub Stats:
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shakxzodbee&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg"/>
+</div>
 
 
 
