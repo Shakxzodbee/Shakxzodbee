@@ -50,22 +50,6 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,jquery,git,github,ps,vercel,vscode,express,vite)](https://skillicons.dev)<br/>
 <hr>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Shakxzodbee&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=shakxzodbee&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakxzodbee&langs_count=8)
-</div>
-  <br>
-</p>
 
 <hr>
 
@@ -75,8 +59,3 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
-
-
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
