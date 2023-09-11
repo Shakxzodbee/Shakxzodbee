@@ -62,10 +62,3 @@
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
 
-
-## 🐍 Snake GitHub 
-<div align="center"> 
- <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
-</div>
-
-
