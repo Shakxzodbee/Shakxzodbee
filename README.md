@@ -55,14 +55,6 @@
 <hr>
 
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
-
-<h5 align="center">
-  <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
-</h5>
-
-
 ## 📊 GitHub Stats:
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shakxzodbee&label=Profile%20views&color=0e75b6&style=flat"/>
