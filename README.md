@@ -9,6 +9,11 @@
    <img width="41%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shakxzodbee&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=shakxzodbee&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
+</div>
+
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   Hi, I'm Shahzodbek WEb Developer from Uzbekistan
