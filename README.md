@@ -14,6 +14,9 @@
  <img src="https://github-profile-trophy.vercel.app/?username=shakxzodbee&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
 </div>
 
+
+
+
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   Hi, I'm Shahzodbek WEb Developer from Uzbekistan
@@ -51,7 +54,6 @@
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,jquery,git,github,ps,vercel,vscode,express,vite)](https://skillicons.dev)<br/>
 <hr>
 
-<hr>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakxzodbee">
@@ -59,3 +61,11 @@
 <h5 align="center">
   <a href="https://github.com/Shakxzodbee?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
+
+
+## 🐍 Snake GitHub 
+<div align="center"> 
+ <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
+</div>
+
+
