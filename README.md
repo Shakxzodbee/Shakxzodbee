@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Shahzodbek%20Barliboyev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Web+designer;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Web+developer;I'm+Mobile+developer;)](#)
  
 
 <!-- START STATS -->
