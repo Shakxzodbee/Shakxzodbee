@@ -51,7 +51,7 @@
 
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,jquery,git,github,ps,vercel,vscode,express,vite,vue)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,jquery,git,github,ps,vercel,vscode,express,vite,vue.js)](https://skillicons.dev)<br/>
 <hr>
 
 
