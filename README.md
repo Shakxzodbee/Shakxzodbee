@@ -62,7 +62,17 @@
   <img src="https://wakatime.com/badge/user/2d058564-5ca4-4396-bb93-98601c2880f9.svg"/>
 </div>
 
-
+```javascript
+const Shahzodbek = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
+    technologies:{
+        fronEnd: ["HTML", "Css", "Bootstrap" , "JavaScript" ,"TypeScript", "Tailwindcss", "React.js",],
+        backEnd: ["Node.js" , "MongoDb" , "Express.js" , "Handlebars"],
+        misc: ["Firebase"],
+        age: ["16"]
+    }
+```
 
 
 
