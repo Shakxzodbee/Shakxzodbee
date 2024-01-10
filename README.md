@@ -63,7 +63,7 @@
 </div>
 
 ```javascript
-const Shahzodbek = {
+const Shakhzodbek = {
     pronouns: "He" | "Him",
     askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
     technologies:{
