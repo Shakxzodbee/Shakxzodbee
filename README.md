@@ -52,7 +52,7 @@
 
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,vue,jquery,git,github,ps,vercel,vscode,express,vite,netlify)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,next,vue,jquery,git,github,ps,vercel,vscode,express,vite,netlify)](https://skillicons.dev)<br/>
 <hr>
 
 
@@ -67,8 +67,8 @@ const Shakhzodbek = {
     pronouns: "He" | "Him",
     askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
     technologies:{
-        fronEnd: ["HTML", "Css", "Bootstrap" , "JavaScript" ,"TypeScript", "Tailwindcss", "React.js",],
-        backEnd: ["Node.js" , "MongoDb" , "Express.js" , "Handlebars"],
+        fronEnd: ["HTML", "Css", "Bootstrap" , "JavaScript" ,"TypeScript", "Tailwindcss", "React.js", "Next.js"],
+        backEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
         misc: ["Firebase"],
         age: ["16"]
     }
