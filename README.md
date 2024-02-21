@@ -32,7 +32,7 @@
 
   💬 Ask me about **Full Stack**
 
-  - 🌱 I’m currently learning **React js , Vue.js , Node.js**
+  - 🌱 I’m currently learning **React js , Node.js**
 
 - ⚡ Fun fact **i'am funny**
 
