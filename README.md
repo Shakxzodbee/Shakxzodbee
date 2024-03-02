@@ -69,8 +69,9 @@ const Shakhzodbek = {
     pronouns: "He" | "Him",
     askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
     technologies:{
-        fronEnd: ["HTML", "Css", "Bootstrap" , "JavaScript" ,"TypeScript", "Tailwindcss", "React.js", "Next.js"],
+        fronEnd: ["HTML", "Css",  "JavaScript" ,"TypeScript", "React.js", "Next.js"],
         backEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
+        style Library: ["Bootstrap", "Tailwindcss"]
         misc: ["Firebase"],
         age: ["16"]
     }
