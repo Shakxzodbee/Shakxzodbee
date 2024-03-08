@@ -75,6 +75,7 @@ const Shakhzodbek = {
 
 
 ## 🐍 Snake GitHub 
+
 <div align="center"> 
  <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
 </div>
