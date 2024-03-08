@@ -74,5 +74,10 @@ const Shakhzodbek = {
 ```
 
 
+## 🐍 Snake GitHub 
+<div align="center"> 
+ <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
