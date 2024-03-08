@@ -62,12 +62,13 @@
 const Shakhzodbek = {
     pronouns: "He" | "Him",
     askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
+    langues: ["english - beginner"]
     technologies:{
         fronEnd: ["HTML", "Css",  "JavaScript" ,"TypeScript", "React.js", "Next.js"],
         backEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
         style Library: ["Bootstrap", "Tailwindcss", "Material UI"],
         misc: ["Firebase"],
-        age: ["16"]
+        age: ["1 6"]
     }
 ```
 
