@@ -12,7 +12,7 @@
 
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-  Hi, I'm Shakxzodbek Web Developer from Uzbekistan
+  Hello, I'm Shakxzodbek Web Developer from Uzbekistan
   <br>
   <br>
   💻 I love writing code and learn anythings about it
