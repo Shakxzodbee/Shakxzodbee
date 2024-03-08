@@ -33,7 +33,7 @@
 ## 🌐 Social Accounts:
 <div align="center"> 
  <a href="https://instagram.com/Shakxzodbee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://t.me/Shakxzodbek"><img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white"/></a>
+  <a href="https://t.me/Shakxzodbek"><img src="https://img.shields.io/badge/Telegram-%0380FD.svg?logo=Telegram&logoColor=white"/></a>
 </div>
 
 <br/>
