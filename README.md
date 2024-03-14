@@ -34,7 +34,7 @@
 <div align="center"> 
  <a href="https://instagram.com/Shakxzodbee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://t.me/Shakxzodbek"><img src="https://img.shields.io/badge/Telegram-%0380FD.svg?logo=Telegram&logoColor=white"/></a>
-  <a href="https://github.com/Shakxzodbee"><img src="https://img.shields.io/badge/Github-%23E4405F.svg?logo=Github&logoColor=white"/></a
+  <a href="https://github.com/Shakxzodbee"><img src="https://img.shields.io/badge/Github-%FFD700.svg?logo=Github&logoColor=white"/></a
 </div>
 
 <br/>
