@@ -33,8 +33,7 @@
 ## 🌐 Social Accounts:
 <div align="center"> 
  <a href="https://www.instagram.com/Shakxzodbee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Shakxzodbek"><img src="https://img.shields.io/badge/Telegram-%0380FD.svg?logo=Telegram&logoColor=white"/></a>
-  <a href="https://github.com/Shakxzodbee"><img src="https://img.shields.io/badge/Github-%FFD700.svg?logo=Github&logoColor=white"/></a
+ <a href="https://www.telegram.me/Shakxzodbee" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <br/>
