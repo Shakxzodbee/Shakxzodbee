@@ -61,7 +61,6 @@
 
 ```javascript
 const Shakhzodbek = {
-    pronouns: "He" | "Him",
     askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
     langues: ["english - beginner"] ,
     technologies:{
