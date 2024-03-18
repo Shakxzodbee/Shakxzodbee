@@ -18,7 +18,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/Shakxzodbek">connection</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/Shakxzodbek">connecting</a>
   <br>
   💬 Ask me anything about from <a href="[https://github.com//Shakxzodbee/issues](https://github.com/Shakxzodbee?tab=repositories)" title="Issues">Here</a>
   <br>
