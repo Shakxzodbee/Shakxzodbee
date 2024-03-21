@@ -65,8 +65,8 @@ const Shakhzodbek = {
     askMeAbout: ["frontend dev", "web dev", "learner" , "backend dev" "Node.js dev"],
     langues: ["english - beginner"] ,
     technologies:{
-        fronEnd: ["Html5", "Css3",  "JavaScript" ,"TypeScript", "React.js", "Next.js"],
-        backEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
+        FronEnd: ["Html5", "CSS3",  "JavaScript" ,"TypeScript", "React.js", "Next.js"],
+        BackEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
         style Library: ["Bootstrap", "Tailwindcss", "Material UI"],
         misc: ["Firebase"],
         age: ["16"]
