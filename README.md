@@ -68,7 +68,7 @@ const Shakhzodbek = {
     technologies:{
         FronEnd: ["Html5", "CSS3",  "JavaScript" ,"TypeScript", "React.js", "Next.js"],
         BackEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
-        style Library: ["Bootstrap", "Tailwindcss", "Material UI"],
+        style Library: ["Bootstrap 4", "Tailwindcss", "Material UI"],
         misc: ["Firebase"],
         age: ["16"]
     }
