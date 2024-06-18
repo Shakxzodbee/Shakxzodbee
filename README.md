@@ -70,7 +70,7 @@ const Shakhzodbek = {
         BackEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
         style Library: ["Bootstrap 4", "Tailwindcss", "Material UI"],
         misc: ["Firebase"],
-        age: ["16"]
+        age: ["17"]
     }
 ```
 
