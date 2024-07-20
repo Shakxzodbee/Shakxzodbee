@@ -46,7 +46,7 @@
 
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,next,vue,jquery,git,github,ps,vercel,vscode,express,vite,netlify)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,nodejs,tailwind,figma,react,next,git,github,ps,vercel,vscode,express,vite,netlify)](https://skillicons.dev)<br/>
 <hr>
 
 
