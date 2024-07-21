@@ -67,7 +67,7 @@ const Shakhzodbek = {
     degre: ["junior or beginner"],
     technologies:{
         FrontEnd: ["Html5", "CSS3",  "JavaScript" ,"TypeScript", "React.js", "Next.js"],
-        BackEnd: ["Node.js" , "Next.js" "MongoDb" , "Express.js" , "Handlebars"],
+        BackEnd: ["Node.js" , "MongoDb" , "Express.js" , "Handlebars"],
         style Library: ["Bootstrap 4", "Tailwindcss", "Material UI"],
         misc: ["Firebase"],
         age: ["17"]
