@@ -20,7 +20,7 @@
   <br>
   ✍️ My blog, where I share personal experiences <a href="https://t.me/Shakxzodbek">connecting</a>
   <br>
-  💬 Ask me anything about from <a href="[https://github.com//Shakxzodbee/issues](https://github.com/Shakxzodbee?tab=repositories)" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="[https://t.me/shakxzodbee](https://github.com/Shakxzodbee?tab=repositories)" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
 
