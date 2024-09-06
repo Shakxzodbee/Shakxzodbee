@@ -61,7 +61,7 @@
 ```javascript
 const Shakhzodbek = {
     name: ["Shakhzodbek"],
-    AskMeAbout: ["frontend dev", "backend dev", "React.js dev"],
+    AskMeAbout: ["frontend dev", "Backend dev", "React.js dev"],
     langues: ["english - elementary"] ,
     degre: ["junior or beginner"],
     technologies:{
