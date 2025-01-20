@@ -27,7 +27,7 @@
 
   - 🌱 I’m currently learning **React js , Node.js**
 
-- ⚡ Fun fact **i'am funny**
+- ⚡ Fun fact **i'm funny**
 
 ## 🌐 Social Accounts:
 <div align="center"> 
