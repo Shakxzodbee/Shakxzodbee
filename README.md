@@ -59,8 +59,8 @@
 </div>
 
 ```javascript
-const Shakhzodbek = {
-    name: ["Shakhzodbek"],
+const Shahzodbek = {
+    name: ["Shahzodbek"],
     AskMeAbout: ["frontend dev", "Backend dev", "React.js dev"],
     langues: ["english - Pre Intermediate"] ,
     degre: ["Middle "],
