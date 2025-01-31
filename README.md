@@ -25,9 +25,9 @@
 
   💬 Ask me about **Full Stack**
 
-  - 🌱 I’m currently learning **React js , Node.js**
+  - 🌱 I’m currently learning **React.js , Node.js**
 
-- ⚡ Fun fact **i'm funny**
+- ⚡ Fun fact **i am funny**
 
 ## 🌐 Social Accounts:
 <div align="center"> 
